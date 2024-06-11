@@ -1,0 +1,496 @@
+
+.nsm7Bb-HzV7m-LgbsSe.hJDwNd-SxQuSe.i5vt6e-Ia7Qfc.uaxL4e-RbRzK{
+    border: none !important;
+ }
+
+ .S9gUrf-YoZ4jf{
+    background-color: none !important;
+    border-radius: 5px !important;
+    text-align: -webkit-center !important;
+    height: 43px !important;
+ }
+
+/* DESKTOP */
+@media screen and (max-width:2560px) and (min-width:700px) {
+    .div1{
+        margin: 0 305px !important;
+        padding: 20px 159px !important;
+        
+    }
+
+    .head{
+        font-size: 35px !important;
+        font-weight: 600;
+    }
+
+    .subHead{
+        font-size: 20px !important;
+        padding: 0px 48px !important;
+        margin-top: 5px !important;
+     }
+
+     .google{
+        font-size: 30px !important;
+        position: relative !important;
+        left: -90px !important;
+        top: 37px !important;
+       
+     }
+
+     .btn{
+        padding: 10px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: none !important;
+        border-radius: 5px !important;
+        width: 530px !important;
+        cursor: pointer;
+
+     }
+
+     .btn1{
+        padding: 12px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: navy !important;
+        border-radius: 5px !important;
+        width: 530px !important;
+        cursor: pointer;
+        color: white;
+     }
+
+     .OR{
+        position: relative !important;
+        top: -22px !important;
+     }
+
+
+    
+
+
+     .email{
+        border: 1px solid lightgray !important;
+        padding: 12px 47px !important;
+        width: 446px !important;
+        font-size: 17px !important;
+        margin-top: 11px !important;
+        border-radius: 5px !important;
+       
+     }
+
+     .text1{
+        position: absolute !important;
+        right: 902px !important;
+     }
+
+     .text2{
+        position: absolute !important;
+        right: 935px !important;
+     }
+
+     .forgot{
+        color: navy !important;
+        font-weight: 500 !important; 
+        padding-right: 9px;
+     }
+
+
+     input::placeholder{
+        color: rgb(184, 179, 179) !important;
+        font-weight: 200 !important;
+        
+     }
+
+     
+
+     .email-icon{
+        font-size: 25px !important;
+        color: lightgray !important;
+        position: relative !important;
+        top: -37px !important;
+        left: -245px !important;
+     }
+
+     
+     .eye{
+      font-size: 25px !important;
+      color: lightgray !important;
+      position: relative !important;
+      top: -62px !important;
+      left: 232px !important;
+     }
+  
+
+}
+
+/* TABLET */
+
+@media only screen and (max-width:1024px) and (min-width:768px)  { 
+    .div1{
+        margin: 0px 140px !important;
+        padding: 20px 50px !important;
+
+    }
+
+    .head{
+        font-size: 35px !important;
+        font-weight: 600;
+    }
+
+    .subHead{
+        font-size: 15px !important;
+        padding: 0px 27px !important;
+        margin-top: 5px !important;
+     }
+
+     .btn{
+        padding: 10px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: none !important;
+        border-radius: 5px !important;
+        width: 380px !important;
+        cursor: pointer;
+
+     }
+
+     .btn1{
+        padding: 12px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: navy !important;
+        border-radius: 5px !important;
+        width: 380px !important;
+        cursor: pointer;
+        color: white;
+     }
+
+
+     .hr{
+        width: 380px !important;
+     }
+
+
+     .OR{
+        position: relative !important;
+        top: -22px !important;
+     }
+
+     .email{
+        width: 295px !important;
+     }
+     .text1{
+        position: absolute !important;
+        right: 480px !important;
+     }
+
+     .text2{
+        position: absolute !important;
+        right: 512px !important;
+     }
+
+     .email-icon{
+        position: relative !important;
+        left: -168px !important;
+     }
+
+     .eye{
+      font-size: 25px !important;
+      color: lightgray !important;
+      position: relative !important;
+      top: -62px !important;
+      left: 170px !important;
+     }
+
+     .horse{
+        width: 200px !important;
+     }
+}
+
+/* LARGE MOBILE */
+@media only screen and (max-width:500px) {
+
+    .horse{
+        width: 180px !important;
+     }
+
+    .div1{
+        margin: 0px 25px !important;
+        padding: 20px !important;
+
+    }
+
+    .head{
+        font-size: 28px !important;
+        font-weight: 600;
+    }
+
+    .subHead{
+        font-size: 15px !important;
+        padding: 0px 4px !important;
+        margin-top: 5px !important;
+     }
+
+     .btn{
+        padding: 10px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: none !important;
+        border-radius: 5px !important;
+        width: 330px !important;
+        cursor: pointer;
+
+     }
+
+     .btn1{
+        padding: 12px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: navy !important;
+        border-radius: 5px !important;
+        width: 330px !important;
+        cursor: pointer;
+        color: white;
+     }
+
+     .hr{
+        width: 330px !important;
+     }
+
+
+     .OR{
+        position: relative !important;
+        top: -22px !important;
+     }
+
+     .email{
+        border: 1px solid lightgray !important;
+        padding: 12px 40px !important;
+        width: 255px !important;
+        font-size: 17px !important;
+        margin-top: 11px !important;
+        border-radius: 5px !important;
+       
+     }
+     .email-icon{
+        font-size: 25px !important;
+        color: lightgray !important;
+        position: relative !important;
+        top: -37px !important;
+        left: -147px !important;
+     }
+
+     .eye{
+      font-size: 25px !important;
+      color: lightgray !important;
+      position: relative !important;
+      top: -62px !important;
+      left: 138px !important;
+     }
+     .text1{
+        position: absolute !important;
+        right: 279px !important;
+     }
+
+     .text2{
+        position: absolute !important;
+        right: 312px !important;
+     }
+
+
+   
+   
+}
+
+
+/* MOBILE */
+@media screen and (min-width:315px) and (max-width:424px) {
+
+    .horse{
+        width: 160px !important;
+     }
+    .div1{
+        margin: 0px 25px !important;
+        padding: 20px !important;
+
+    }
+
+    .head{
+        font-size: 25px !important;
+        font-weight: 600;
+    }
+
+    .subHead{
+        font-size: 12px !important;
+        margin-top: 7px !important;
+     }
+
+     .btn{
+        padding: 10px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: none !important;
+        border-radius: 5px !important;
+        width: 290px !important;
+        cursor: pointer;
+
+     }
+
+     .btn1{
+        padding: 12px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: navy !important;
+        border-radius: 5px !important;
+        width: 290px !important;
+        cursor: pointer;
+        color: white;
+     }
+
+     .hr{
+        width: 293px !important;
+     }
+
+
+     .OR{
+        position: relative !important;
+        top: -22px !important;
+     }
+
+     .email{
+        border: 1px solid lightgray !important;
+        padding: 12px 38px !important;
+        width: 210px !important;
+        font-size: 17px !important;
+        margin-top: 11px !important;
+        border-radius: 5px !important;
+       
+     }
+     .email-icon{
+        font-size: 25px !important;
+        color: lightgray !important;
+        position: relative !important;
+        top: -37px !important;
+        left: -124px !important;
+     }
+     .text1{
+        position: absolute !important;
+        right: 233px !important;
+     }
+
+     .text2{
+        position: absolute !important;
+        right: 266px !important;
+     }
+
+     .eye{
+      font-size: 25px !important;
+      color: lightgray !important;
+      position: relative !important;
+      top: -62px !important;
+      left: 125px !important;
+     }
+
+}
+
+@media screen and (max-width:320px)  {
+
+    .horse{
+        width: 125px !important;
+     }
+    .div1{
+        margin: 0px 25px !important;
+        padding: 20px !important;
+
+    }
+
+    .head{
+        font-size: 25px !important;
+        font-weight: 600;
+    }
+
+    .subHead{
+        font-size: 12px !important;
+        margin-top: 7px !important;
+     }
+
+     .btn{
+        padding: 10px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: none !important;
+        border-radius: 5px !important;
+        width: 240px !important;
+        cursor: pointer;
+
+     }
+
+     .btn1{
+        padding: 12px 15px !important;
+        border: 1px solid gray !important;
+        outline: none !important;
+        font-size: 15px !important;
+        background: navy !important;
+        border-radius: 5px !important;
+        width: 240px !important;
+        cursor: pointer;
+        color: white;
+     }
+
+     .hr{
+        width: 245px !important;
+     }
+
+
+     .OR{
+        position: relative !important;
+        top: -22px !important;
+     }
+
+     .email{
+        border: 1px solid lightgray !important;
+        padding: 12px 30px !important;
+        width: 173px !important;
+        font-size: 17px !important;
+        margin-top: 11px !important;
+        border-radius: 5px !important;
+       
+     }
+
+     .email-icon{
+        font-size: 25px !important;
+        color: lightgray !important;
+        position: relative !important;
+        top: -37px !important;
+        left: -100px !important;
+     }
+
+     .eye{
+      font-size: 25px !important;
+      color: lightgray !important;
+      position: relative !important;
+      top: -62px !important;
+      left: 100px !important;
+     }
+
+     .text1{
+        position: absolute !important;
+        right: 177px !important;
+     }
+
+     .text2{
+        position: absolute !important;
+        right: 211px !important;
+     }
+
+   
+}
