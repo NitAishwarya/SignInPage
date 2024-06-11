@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nitaishwarya.github.io/SignIn-Page/",
-  "name": "login-page",
+  "homepage": "https://nitaishwarya.github.io/SignInPage/",
+  "name": "signinpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
